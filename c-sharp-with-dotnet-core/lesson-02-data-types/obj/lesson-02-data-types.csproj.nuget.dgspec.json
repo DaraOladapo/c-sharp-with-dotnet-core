@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\lesson-02-data-types.csproj": {}
+    "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\lesson-02-data-types.csproj": {}
   },
   "projects": {
-    "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\lesson-02-data-types.csproj": {
+    "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\lesson-02-data-types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\lesson-02-data-types.csproj",
+        "projectUniqueName": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\lesson-02-data-types.csproj",
         "projectName": "lesson-02-data-types",
-        "projectPath": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\lesson-02-data-types.csproj",
+        "projectPath": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\lesson-02-data-types.csproj",
         "packagesPath": "C:\\Users\\v-daolad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\obj\\",
+        "outputPath": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-02-data-types\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

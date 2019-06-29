@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\lesson-01-hello-world.csproj": {}
+    "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\lesson-01-hello-world.csproj": {}
   },
   "projects": {
-    "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\lesson-01-hello-world.csproj": {
+    "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\lesson-01-hello-world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\lesson-01-hello-world.csproj",
+        "projectUniqueName": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\lesson-01-hello-world.csproj",
         "projectName": "lesson-01-hello-world",
-        "projectPath": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\lesson-01-hello-world.csproj",
+        "projectPath": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\lesson-01-hello-world.csproj",
         "packagesPath": "C:\\Users\\v-daolad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\obj\\",
+        "outputPath": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-01-hello-world\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

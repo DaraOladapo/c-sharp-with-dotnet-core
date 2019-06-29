@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj": {}
+    "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj": {}
   },
   "projects": {
-    "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj": {
+    "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj",
+        "projectUniqueName": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj",
         "projectName": "lesson-03-variables-and-calculations",
-        "projectPath": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj",
+        "projectPath": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj",
         "packagesPath": "C:\\Users\\v-daolad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\obj\\",
+        "outputPath": "C:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
