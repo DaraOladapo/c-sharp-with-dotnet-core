@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/daraoladapo/OneDrive/Trainings/C# with .NET Core/src/lesson-01-hello-world/lesson-01-hello-world.csproj": {}
+  },
+  "projects": {
+    "/Users/daraoladapo/OneDrive/Trainings/C# with .NET Core/src/lesson-01-hello-world/lesson-01-hello-world.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/daraoladapo/OneDrive/Trainings/C# with .NET Core/src/lesson-01-hello-world/lesson-01-hello-world.csproj",
+        "projectName": "lesson-01-hello-world",
+        "projectPath": "/Users/daraoladapo/OneDrive/Trainings/C# with .NET Core/src/lesson-01-hello-world/lesson-01-hello-world.csproj",
+        "packagesPath": "/Users/daraoladapo/.nuget/packages/",
+        "outputPath": "/Users/daraoladapo/OneDrive/Trainings/C# with .NET Core/src/lesson-01-hello-world/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/daraoladapo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
