@@ -6,8 +6,7 @@ namespace lesson_03_variables_and_calculations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            
+            Console.WriteLine("Hello World!");          
         }
     }
 }
