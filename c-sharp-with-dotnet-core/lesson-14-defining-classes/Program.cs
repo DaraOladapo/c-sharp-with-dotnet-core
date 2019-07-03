@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace lesson_03_variables_and_calculations
+namespace lesson_14_defining_classes
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            
         }
     }
 }
