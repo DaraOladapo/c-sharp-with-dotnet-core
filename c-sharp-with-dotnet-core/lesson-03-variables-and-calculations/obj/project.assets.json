@@ -687,40 +687,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\v-daolad\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/daraoladapo/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj",
+      "projectUniqueName": "/Users/daraoladapo/OneDrive/Trainings/C# with .NET Core/src/c-sharp-with-dotnet-core/lesson-03-variables-and-calculations/lesson-03-variables-and-calculations.csproj",
       "projectName": "lesson-03-variables-and-calculations",
-      "projectPath": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\lesson-03-variables-and-calculations.csproj",
-      "packagesPath": "C:\\Users\\v-daolad\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\v-daolad\\OneDrive\\Trainings\\C# with .NET Core\\src\\c-sharp-with-dotnet-core\\lesson-03-variables-and-calculations\\obj\\",
+      "projectPath": "/Users/daraoladapo/OneDrive/Trainings/C# with .NET Core/src/c-sharp-with-dotnet-core/lesson-03-variables-and-calculations/lesson-03-variables-and-calculations.csproj",
+      "packagesPath": "/Users/daraoladapo/.nuget/packages/",
+      "outputPath": "/Users/daraoladapo/OneDrive/Trainings/C# with .NET Core/src/c-sharp-with-dotnet-core/lesson-03-variables-and-calculations/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\v-daolad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/daraoladapo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
