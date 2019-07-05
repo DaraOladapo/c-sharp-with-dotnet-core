@@ -12,7 +12,7 @@ namespace lesson_04_debugging
             //problem?
 
             //one way to solve this
-            var valDebugDiv = Convert.ToDouble(firstVal) /Convert.ToDouble(secondVal);
+            var valDebugDiv = Convert.ToDouble(firstVal) / Convert.ToDouble(secondVal);
             Console.WriteLine($"{firstVal} / {secondVal} = {valDebugDiv}");
 
             //touch on parsing values and .ToSTring()
