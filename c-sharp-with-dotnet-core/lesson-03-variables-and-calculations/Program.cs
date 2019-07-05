@@ -6,7 +6,15 @@ namespace lesson_03_variables_and_calculations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");          
+            //explicit declaration
+            int explicitInt;
+            explicitInt = 12;
+            int anotherExplicitInt = 5;
+            Console.WriteLine(explicitInt);
+            Console.WriteLine(anotherExplicitInt);
+            //implicit declaration
+            var implicitVariable = 25;
+            Console.WriteLine($"{implicitVariable} is of datatype {implicitVariable.GetType()}");
         }
     }
 }
