@@ -8,7 +8,7 @@ namespace lesson_17_overloading_operators
         {
             int A = 5, B = 6;
             var intAdd = Add(A, B);
-            System.Console.WriteLine(intAdd);
+            Console.WriteLine(intAdd);
             double C = 4.6, D = 7.6;
             var doubeAdd = Add(C, D);
             Console.WriteLine(doubeAdd);
