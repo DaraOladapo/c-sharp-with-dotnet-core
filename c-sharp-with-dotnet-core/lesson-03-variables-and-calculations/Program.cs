@@ -4,6 +4,10 @@ namespace lesson_03_variables_and_calculations
 {
     class Program
     {
+        public Program()
+        {
+
+        }
         static void Main(string[] args)
         {
             //explicit declaration

@@ -18,6 +18,9 @@ namespace lesson_02_data_types
             Console.WriteLine($"{someDouble} is of datatype {someDouble.GetType()}");
             double someOtherDouble=2;
             Console.WriteLine($"{someOtherDouble} is of datatype {someOtherDouble.GetType()}");
+            double min = double.MinValue;
+            double max = double.MaxValue;
+            Console.WriteLine($"The range of the double type is {min} to {max}");
             //float
             float someFloat=2.0F;
             Console.WriteLine($"{someFloat} is of datatype {someFloat.GetType()}");
