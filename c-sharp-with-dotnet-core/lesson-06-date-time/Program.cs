@@ -23,6 +23,9 @@ namespace lesson_06_date_time
             Console.WriteLine($"{timeRightNow.ToLongTimeString()}");
             Console.WriteLine($"{timeRightNow.ToShortTimeString()}");
 
+            //more play with date time
+            Console.WriteLine($"The time in 5 minutes time is {timeRightNow.AddMinutes(5)}");
+
         }
     }
 }
