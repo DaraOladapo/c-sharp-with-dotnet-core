@@ -17,10 +17,12 @@ namespace lesson_05_strings
             Console.WriteLine(someOtherString);
 
             //string manipulations
-            //placeholders
             string firstSegment = "I should form", secondSegment = "a complete sentence";
+            //direct concatenation
             Console.WriteLine(firstSegment + " " + secondSegment);
-            Console.WriteLine("{0} {1}",firstSegment,secondSegment);
+            //placeholdeer concatenation
+            Console.WriteLine("{0} {1}", firstSegment, secondSegment);
+            //template string
             Console.WriteLine($"{firstSegment} {secondSegment}");
         }
     }
