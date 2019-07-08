@@ -25,6 +25,8 @@ namespace lesson_06_date_time
 
             //more play with date time
             Console.WriteLine($"The time in 5 minutes time is {timeRightNow.AddMinutes(5)}");
+            Console.WriteLine($"The time in 5 hours time is {timeRightNow.AddHours(5)}");
+            Console.WriteLine($"The time in 5 days time is {timeRightNow.AddDays(5)}");
 
         }
     }
