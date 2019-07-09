@@ -46,6 +46,7 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+*.DS_Store
 *_i.c
 *_p.c
 *_i.h
