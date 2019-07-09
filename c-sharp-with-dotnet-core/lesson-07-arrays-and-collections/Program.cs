@@ -6,7 +6,9 @@ namespace lesson_07_arrays_and_collections
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //arrays
+            string[] arrayOfStrings = new string[5];
+            int[] arrayOfInts = { 6, 8, 9, 0, 2, 5, 45 };
         }
     }
 }

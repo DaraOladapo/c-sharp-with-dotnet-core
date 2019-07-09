@@ -24,6 +24,7 @@ bld/
 
 # Visual Studio 2015 cache/options directory
 .vs/
+.vscode/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
@@ -45,6 +46,7 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+*.DS_Store
 *_i.c
 *_p.c
 *_i.h
