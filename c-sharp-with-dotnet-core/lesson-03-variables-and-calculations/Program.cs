@@ -37,6 +37,19 @@ namespace lesson_03_variables_and_calculations
 
             int valRemainderAfterDiv = firstVal % secondVal;
             Console.WriteLine($"{firstVal} remainder div of {secondVal} = {valRemainderAfterDiv}");
+
+            //introudcing scoping
+            //block scoping
+            {
+                var varInBlock="I'm in block 1 and I'm a string";
+                System.Console.WriteLine(varInBlock.GetType());
+                System.Console.WriteLine(valRemainderAfterDiv.GetType());
+            }
+            {
+                var varInBlock=21;
+                System.Console.WriteLine(varInBlock.GetType());
+            }
+            //System.Console.WriteLine(varInBlock.GetType());
         }
     }
 }
