@@ -31,6 +31,17 @@ namespace lesson_09_making_choices
             };
  Console.WriteLine($"A {newBorn.Gender} child was born and weighs {newBorn.Weight}kg and is {newBorn.WeightClass}");
        
+       //ternary operator
+       int userAge=12; //assume this is an input
+    //    if (userAge<13){
+    //        System.Console.WriteLine("Underage to use app");
+    //    }
+    //    else
+    //    {
+    //     System.Console.WriteLine("Allowed to use app");   
+    //    }
+    var Response=userAge<13?"Underage to use app":"Allowed to use app";
+    System.Console.WriteLine(Response);
         }
     }
     enum WeightClass{
