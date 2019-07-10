@@ -7,44 +7,45 @@ namespace lesson_09_making_choices
         static void Main(string[] args)
         {
             Console.WriteLine("What is the weight of the child born?");
-            double newBornWeight=double.Parse(Console.ReadLine());
+            double newBornWeight = double.Parse(Console.ReadLine());
             Console.WriteLine("What is the gender? 1 for male, 2 for female");
-            int newBornGender=int.Parse(Console.ReadLine());
+            int newBornGender = int.Parse(Console.ReadLine());
             WeightClass weightClass;
-            if (newBornWeight<1.0)
+            if (newBornWeight < 1.0)
             {
-                weightClass=WeightClass.UnderWeight;
+                weightClass = WeightClass.UnderWeight;
             }
-            else if(newBornWeight >= 1.0 && newBornWeight <= 2.0 )
+            else if (newBornWeight >= 1.0 && newBornWeight <= 2.0)
             {
-             weightClass=WeightClass.Normal;
+                weightClass = WeightClass.Normal;
             }
             else
             {
-                weightClass=WeightClass.Overweight;
+                weightClass = WeightClass.Overweight;
             }
-            Child newBorn=new Child
+            Child newBorn = new Child
             {
-                Weight=newBornWeight,
-                Gender=(Gender)newBornGender,
-                WeightClass=weightClass
+                Weight = newBornWeight,
+                Gender = (Gender)newBornGender,
+                WeightClass = weightClass
             };
- Console.WriteLine($"A {newBorn.Gender} child was born and weighs {newBorn.Weight}kg and is {newBorn.WeightClass}");
-       
-       //ternary operator
-       int userAge=12; //assume this is an input
-    //    if (userAge<13){
-    //        System.Console.WriteLine("Underage to use app");
-    //    }
-    //    else
-    //    {
-    //     System.Console.WriteLine("Allowed to use app");   
-    //    }
-    var Response=userAge<13?"Underage to use app":"Allowed to use app";
-    System.Console.WriteLine(Response);
+            Console.WriteLine($"A {newBorn.Gender} child was born and weighs {newBorn.Weight}kg and is {newBorn.WeightClass}");
+
+            //ternary operator
+            int userAge = 12; //assume this is an input
+                              //    if (userAge<13){
+                              //        System.Console.WriteLine("Underage to use app");
+                              //    }
+                              //    else
+                              //    {
+                              //     System.Console.WriteLine("Allowed to use app");   
+                              //    }
+            var Response = userAge < 13 ? "Underage to use app" : "Allowed to use app";
+            System.Console.WriteLine(Response);
         }
     }
-    enum WeightClass{
+    enum WeightClass
+    {
         UnderWeight,
         Normal,
         Overweight
@@ -57,7 +58,7 @@ namespace lesson_09_making_choices
     }
     enum Gender
     {
-     Male=1,
-     Female
+        Male = 1,
+        Female
     }
 }
