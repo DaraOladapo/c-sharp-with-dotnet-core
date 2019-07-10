@@ -11,6 +11,11 @@ namespace lesson_04_debugging
             Console.WriteLine($"{firstVal} / {secondVal} = {valDivision}");
             //problem?
 
+            //parsing
+            int BirthYear;
+            BirthYear=int.Parse(Console.ReadLine());
+            System.Console.WriteLine(BirthYear);
+
             //one way to solve this
             var valDebugDiv = Convert.ToDouble(firstVal) / Convert.ToDouble(secondVal);
             Console.WriteLine($"{firstVal} / {secondVal} = {valDebugDiv}");

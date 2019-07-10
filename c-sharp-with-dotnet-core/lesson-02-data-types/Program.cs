@@ -6,6 +6,9 @@ namespace lesson_02_data_types
     {
         static void Main(string[] args)
         {
+            /*
+            I am a multinline comment
+             */
             //basic data types
             //int
             int someInt = 1;

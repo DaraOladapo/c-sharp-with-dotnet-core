@@ -10,6 +10,9 @@ namespace lesson_03_variables_and_calculations
         }
         static void Main(string[] args)
         {
+            //accepting input
+            var inputString=Console.ReadLine();
+            System.Console.WriteLine($"Your input was {inputString}");
             //explicit declaration
             int explicitInt;
             explicitInt = 12;
