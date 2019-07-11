@@ -75,4 +75,7 @@ Lesson 1 get us started with a Console App displaying Hello World.
 ### Lesson 20
 
 
+### Lesson 21
+Note: This .NET Core 3.0
+
 ## Next Steps
