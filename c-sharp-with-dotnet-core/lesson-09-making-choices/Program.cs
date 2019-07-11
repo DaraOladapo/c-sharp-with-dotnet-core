@@ -42,6 +42,22 @@ namespace lesson_09_making_choices
                               //    }
             var Response = userAge < 13 ? "Underage to use app" : "Allowed to use app";
             System.Console.WriteLine(Response);
+
+            //nesting
+            int age=14;
+            if(age<18){
+                if(age<13){
+                    System.Console.WriteLine("Children Class");
+                }
+                else
+                {
+                    System.Console.WriteLine("Teenagers Class");
+                }
+            }
+            else
+            {
+                System.Console.WriteLine("Adult Class");
+            }
         }
     }
     enum WeightClass

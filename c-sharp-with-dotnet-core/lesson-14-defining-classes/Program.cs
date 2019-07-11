@@ -6,6 +6,7 @@ namespace lesson_14_defining_classes
     {
         static void Main(string[] args)
         {
+            //use the rice cooking example
             Console.WriteLine("Hello World!");
         }
     }
