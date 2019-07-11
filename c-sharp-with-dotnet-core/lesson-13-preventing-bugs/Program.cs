@@ -4,29 +4,23 @@ namespace lesson_13_preventing_bugs
 {
     class Program
     {
-       //basic data types
-            //int
-            int someInt = 1;
-            Console.WriteLine($"{someInt} is of datatype {someInt.GetType()}");
-            Console.WriteLine($"Data type INT has a min value of {int.MinValue} and max value of {int.MaxValue}");
-            //long
-            long someLong = 34232434342;
-            Console.WriteLine($"{someLong} is of datatype {someLong.GetType()}");
-            Console.WriteLine($"Data type LONG has a min value of {long.MinValue} and max value of {long.MaxValue}");
-            //double
-            double someDouble = 2.5;
-            Console.WriteLine($"{someDouble} is of datatype {someDouble.GetType()}");
-            double someOtherDouble = 2;
-            Console.WriteLine($"{someOtherDouble} is of datatype {someOtherDouble.GetType()}");
-            Console.WriteLine($"Data type DOUBLE has a min value of {double.MinValue} and max value of {double.MaxValue}");
-            //float
-            float someFloat = 2.0F;
-            Console.WriteLine($"{someFloat} is of datatype {someFloat.GetType()}");
-            //string
-            string someString = "I am a string";
-            Console.WriteLine($"{someString} is of datatype {someString.GetType()}");
-            //char
-            char someChar = 'c';
-            Console.WriteLine($"{someChar} is of datatype {someChar.GetType()}");
+        static void Main(string[] args)
+        {
+            int a;
+            try
+            {
+                a=int.Parse(Console.ReadLine());
+                System.Console.WriteLine($"Your input was {a}");
+            }
+            catch (System.Exception exception)
+            {
+             System.Console.WriteLine($"An error occured.\nMessage: {exception.Message}");
+             //System.Console.WriteLine($"Follow this link - {exception.HelpLink} - to learn more");  
+            }
+            // finally
+            // {
+            // System.Console.WriteLine("This finally happened");
+            // }
+        }
     }
 }
