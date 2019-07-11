@@ -6,7 +6,10 @@ namespace lesson_11_reusing_code_with_methods
     {
         static void Main(string[] args)
         {
-            int a=2,b=32;
+            //accept input
+            int a=int.Parse(Console.ReadLine());
+            int b=int.Parse(Console.ReadLine());
+            //perform calculation
             var AdditionResult=Add(a,b);
             System.Console.WriteLine(AdditionResult);
             var SubstractionResult=Subtract(a,b);
