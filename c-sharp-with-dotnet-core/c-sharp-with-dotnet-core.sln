@@ -1,50 +1,49 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-01-hello-world", "lesson-01-hello-world\lesson-01-hello-world.csproj", "{CE9439BE-E8F6-4C37-856A-C6696B44C26B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-01-hello-world", "lesson-01-hello-world\lesson-01-hello-world.csproj", "{CE9439BE-E8F6-4C37-856A-C6696B44C26B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-02-data-types", "lesson-02-data-types\lesson-02-data-types.csproj", "{D8866B10-6CFB-43D7-B4E2-F4E2A28631FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-02-data-types", "lesson-02-data-types\lesson-02-data-types.csproj", "{D8866B10-6CFB-43D7-B4E2-F4E2A28631FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-03-variables-and-calculations", "lesson-03-variables-and-calculations\lesson-03-variables-and-calculations.csproj", "{375B2450-9292-480A-A77B-2992F5B031FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-03-variables-and-calculations", "lesson-03-variables-and-calculations\lesson-03-variables-and-calculations.csproj", "{375B2450-9292-480A-A77B-2992F5B031FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-04-debugging", "lesson-04-debugging\lesson-04-debugging.csproj", "{5D1468DC-77EF-4918-9B65-1150AE804F3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-04-debugging", "lesson-04-debugging\lesson-04-debugging.csproj", "{5D1468DC-77EF-4918-9B65-1150AE804F3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-05-strings", "lesson-05-strings\lesson-05-strings.csproj", "{37AB8509-727A-40A0-9C72-FC582C0ABED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-05-strings", "lesson-05-strings\lesson-05-strings.csproj", "{37AB8509-727A-40A0-9C72-FC582C0ABED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-06-date-time", "lesson-06-date-time\lesson-06-date-time.csproj", "{99BFBFA5-9EC4-4953-9A89-5233B4249B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-06-date-time", "lesson-06-date-time\lesson-06-date-time.csproj", "{99BFBFA5-9EC4-4953-9A89-5233B4249B16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-07-arrays-and-collections", "lesson-07-arrays-and-collections\lesson-07-arrays-and-collections.csproj", "{AB64889B-0CD0-48F4-9AC1-DA2C8F8D56AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-07-arrays-and-collections", "lesson-07-arrays-and-collections\lesson-07-arrays-and-collections.csproj", "{AB64889B-0CD0-48F4-9AC1-DA2C8F8D56AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-08-enums-and-structs", "lesson-08-enums-and-structs\lesson-08-enums-and-structs.csproj", "{6BA0CB13-1709-4B54-8A7C-D8F6152C0FE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-08-enums-and-structs", "lesson-08-enums-and-structs\lesson-08-enums-and-structs.csproj", "{6BA0CB13-1709-4B54-8A7C-D8F6152C0FE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-09-making-choices", "lesson-09-making-choices\lesson-09-making-choices.csproj", "{1FDCAD69-4485-42F0-BB2E-AB4864CFB59E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-09-making-choices", "lesson-09-making-choices\lesson-09-making-choices.csproj", "{1FDCAD69-4485-42F0-BB2E-AB4864CFB59E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-10-repeating-program-steps", "lesson-10-repeating-program-steps\lesson-10-repeating-program-steps.csproj", "{E0A0DDB8-19AF-4E98-A59B-6B872112269F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-10-repeating-program-steps", "lesson-10-repeating-program-steps\lesson-10-repeating-program-steps.csproj", "{E0A0DDB8-19AF-4E98-A59B-6B872112269F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-11-reusing-code-with-methods", "lesson-11-reusing-code-with-methods\lesson-11-reusing-code-with-methods.csproj", "{118E0795-599D-4599-A620-E2556CADD185}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-11-reusing-code-with-methods", "lesson-11-reusing-code-with-methods\lesson-11-reusing-code-with-methods.csproj", "{118E0795-599D-4599-A620-E2556CADD185}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-12-handling-errors", "lesson-12-handling-errors\lesson-12-handling-errors.csproj", "{0DCEE3C4-0A2D-4E4D-A09E-BD3868444E4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-12-handling-errors", "lesson-12-handling-errors\lesson-12-handling-errors.csproj", "{0DCEE3C4-0A2D-4E4D-A09E-BD3868444E4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-13-preventing-bugs", "lesson-13-preventing-bugs\lesson-13-preventing-bugs.csproj", "{67135757-9C8E-40FC-8EE4-834D142F2F07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-13-preventing-bugs", "lesson-13-preventing-bugs\lesson-13-preventing-bugs.csproj", "{67135757-9C8E-40FC-8EE4-834D142F2F07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-14-defining-classes", "lesson-14-defining-classes\lesson-14-defining-classes.csproj", "{6FA7CB53-929E-4C81-A027-05A1EBDD4F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-14-defining-classes", "lesson-14-defining-classes\lesson-14-defining-classes.csproj", "{6FA7CB53-929E-4C81-A027-05A1EBDD4F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-15-initializing-objects", "lesson-15-initializing-objects\lesson-15-initializing-objects.csproj", "{AD92095E-3B58-4E6A-9207-E2F8FC841FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-15-initializing-objects", "lesson-15-initializing-objects\lesson-15-initializing-objects.csproj", "{AD92095E-3B58-4E6A-9207-E2F8FC841FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-17-overloading-operators", "lesson-17-overloading-operators\lesson-17-overloading-operators.csproj", "{8969503F-EA92-4729-9A1A-1E7CDB072929}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-17-overloading-operators", "lesson-17-overloading-operators\lesson-17-overloading-operators.csproj", "{8969503F-EA92-4729-9A1A-1E7CDB072929}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-18-using-interfaces", "lesson-18-using-interfaces\lesson-18-using-interfaces.csproj", "{114B678B-E6F4-4248-A797-A389140E8664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-18-using-interfaces", "lesson-18-using-interfaces\lesson-18-using-interfaces.csproj", "{114B678B-E6F4-4248-A797-A389140E8664}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-19-making-generic-classes", "lesson-19-making-generic-classes\lesson-19-making-generic-classes.csproj", "{D6F7A1A7-7D3D-4CEC-B5D0-1925480AFB64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-20-linq", "lesson-20-linq\lesson-20-linq.csproj", "{0197EF48-D2D1-4E07-AA2D-73DD50CECF24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-20-linq", "lesson-20-linq\lesson-20-linq.csproj", "{0197EF48-D2D1-4E07-AA2D-73DD50CECF24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-16-switches", "lesson-16-switches\lesson-16-switches.csproj", "{0455A785-0D43-4C0D-B602-ECABF45B16A7}"
 EndProject
 Global
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
@@ -282,5 +281,23 @@ Global
 		{0197EF48-D2D1-4E07-AA2D-73DD50CECF24}.Release|x64.Build.0 = Release|Any CPU
 		{0197EF48-D2D1-4E07-AA2D-73DD50CECF24}.Release|x86.ActiveCfg = Release|Any CPU
 		{0197EF48-D2D1-4E07-AA2D-73DD50CECF24}.Release|x86.Build.0 = Release|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Debug|x64.Build.0 = Debug|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Debug|x86.Build.0 = Debug|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|x64.ActiveCfg = Release|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|x64.Build.0 = Release|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|x86.ActiveCfg = Release|Any CPU
+		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {672F759B-DA16-4387-BFCF-A105E160DCCC}
 	EndGlobalSection
 EndGlobal
