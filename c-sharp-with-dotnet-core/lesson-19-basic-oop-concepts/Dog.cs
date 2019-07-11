@@ -4,7 +4,7 @@ namespace lesson_19_basic_oop_concepts
     {
         void Bark()
         {
-            
+         MakeSound();   
         }    
     }
 }

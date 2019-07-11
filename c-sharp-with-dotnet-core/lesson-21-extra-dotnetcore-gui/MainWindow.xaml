@@ -7,6 +7,40 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <TextBlock Text="Registration Form"/>
+            <TextBlock Text="First Name"/>
+            <TextBox x:Name="FirstNameBox"/>
+            <TextBlock Text="Last Name"/>
+            <TextBox x:Name="LastNameBox"/>
+            <TextBlock Text="Email Address"/>
+            <TextBox x:Name="EmailAddressBox"/>
+            <Button Content="Submit" Click="OnClick" IsDefault="True"/>
+            <TextBlock TextWrapping="WrapWithOverflow" x:Name="StatusLabel"/>
+        </StackPanel>
+        <ListView x:Name="UsersListView" Grid.Column="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="First Name: "/>
+                            <TextBlock Text="{Binding FirstName}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Last Name: "/>
+                            <TextBlock Text="{Binding LastName}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Email Address: "/>
+                            <TextBlock Text="{Binding EmailAddress}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </Grid>
 </Window>

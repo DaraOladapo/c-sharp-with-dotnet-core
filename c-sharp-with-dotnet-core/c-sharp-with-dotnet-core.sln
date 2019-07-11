@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-20-linq", "lesson-20
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-16-switches", "lesson-16-switches\lesson-16-switches.csproj", "{0455A785-0D43-4C0D-B602-ECABF45B16A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-21-extra-dotnetcore-gui", "lesson-21-extra-dotnetcore-gui\lesson-21-extra-dotnetcore-gui.csproj", "{59BCF628-D725-4019-8DE5-BD16DC566396}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -293,6 +295,18 @@ Global
 		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|x64.Build.0 = Release|Any CPU
 		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|x86.ActiveCfg = Release|Any CPU
 		{0455A785-0D43-4C0D-B602-ECABF45B16A7}.Release|x86.Build.0 = Release|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Debug|x64.Build.0 = Debug|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Debug|x86.Build.0 = Debug|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Release|x64.ActiveCfg = Release|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Release|x64.Build.0 = Release|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Release|x86.ActiveCfg = Release|Any CPU
+		{59BCF628-D725-4019-8DE5-BD16DC566396}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
