@@ -13,4 +13,66 @@ The lesson files are broken down into basic chunks to grasp and progress from si
 
 ### Lesson 1
 
- 
+Most developers started writing thier coding careerer with a
+`Hello World`
+<br>
+Lesson 1 get us started with a Console App displaying Hello World.
+
+### Lesson 2
+
+
+### Lesson 3
+
+
+### Lesson 4
+
+
+### Lesson 5
+
+
+### Lesson 6
+
+
+### Lesson 7
+
+
+### Lesson 8
+
+
+### Lesson 9
+
+
+### Lesson 10
+
+
+### Lesson 11
+
+
+### Lesson 12
+
+
+### Lesson 13
+
+
+### Lesson 14
+
+
+### Lesson 15
+
+
+### Lesson 16
+
+
+### Lesson 17
+
+
+### Lesson 18
+
+
+### Lesson 19
+
+
+### Lesson 20
+
+
+## Next Steps
