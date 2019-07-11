@@ -10,8 +10,9 @@ namespace lesson_17_overloading_operators
             var intAdd = Add(A, B);
             Console.WriteLine(intAdd);
             double C = 4.6, D = 7.6;
-            var doubeAdd = Add(C, D);
-            Console.WriteLine(doubeAdd);
+            var doubleAdd = Add(C, D);
+            Console.WriteLine(doubleAdd);
+            var doubleIntAdd=Add(doubleAdd, intAdd);
         }
 
         private static double Add(double A, double B)
@@ -21,6 +22,10 @@ namespace lesson_17_overloading_operators
         private static int Add(int A, int B)
         {
             return A + B;
+        }
+        private static double Add(double A,int B)
+        {
+            return A+B;
         }
     }
 }
