@@ -10,9 +10,9 @@ namespace lesson_14_defining_classes
          //Lets cook some food
          Food RiceMeal=new Food();
          List<Ingredient> Ingredients=new List<Ingredient>();
-         //assumed input
+        //assumed input
          RiceMeal.Name="White Rice";
-         Ingredients.Add(new Ingredient(){Name="Water", Quantity=2, Unit=MeasureUnit.Litres});
+         Ingredients.Add(new Ingredient(){Name="Water", Quantity=2, Unit=MeasureUnit.Cup});
          Ingredients.Add(new Ingredient(){Name="Rice", Quantity=3, Unit=MeasureUnit.DeRica});
          Ingredients.Add(new Ingredient(){Name="Salt", Quantity=3, Unit=MeasureUnit.Pinch});
          RiceMeal.Ingredients=Ingredients;

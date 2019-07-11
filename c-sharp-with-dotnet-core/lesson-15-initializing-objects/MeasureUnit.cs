@@ -1,4 +1,4 @@
-namespace lesson_14_defining_classes
+namespace lesson_15_initializing_objects
 {
     enum MeasureUnit
     {
