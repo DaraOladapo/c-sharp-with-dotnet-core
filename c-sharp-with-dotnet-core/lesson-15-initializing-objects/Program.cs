@@ -34,7 +34,7 @@ namespace lesson_15_initializing_objects
             Name=InputFoodName,
             Ingredients=Ingredients
             };
-          
+        
           Console.WriteLine($"We are about to cook {MealInput.Name} and below are the list of ingredients.");
          foreach (var Ingredient in MealInput.Ingredients)
          {

@@ -4,6 +4,6 @@ namespace lesson_15_initializing_objects
     {
      public string Name { get; set; }   
      public double Quantity { get; set; }   
-     public MeasureUnit Unit{ get; set; }   
+     public MeasureUnit Unit{ get; set; }  
     }
 }
