@@ -14,7 +14,7 @@ namespace lesson_06_date_time
             Console.WriteLine($"The current second of the hour and minute of day is {timeRightNow.Second}");
 
             //ToString()
-            Console.WriteLine("Time in Long and Short string");
+            Console.WriteLine("Date in Long and Short string");
             Console.WriteLine($"{timeRightNow.ToLongDateString()}");
             Console.WriteLine($"{timeRightNow.ToShortDateString()}");
 

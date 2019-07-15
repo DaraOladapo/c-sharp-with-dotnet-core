@@ -44,9 +44,11 @@ namespace lesson_09_making_choices
             System.Console.WriteLine(Response);
 
             //nesting
-            int age=14;
-            if(age<18){
-                if(age<13){
+            int age = 14;
+            if (age < 18)
+            {
+                if (age < 13)
+                {
                     System.Console.WriteLine("Children Class");
                 }
                 else
@@ -58,7 +60,35 @@ namespace lesson_09_making_choices
             {
                 System.Console.WriteLine("Adult Class");
             }
+            //switching
+            //    var ratingInput=int.Parse(Console.ReadLine());
+            //    Rating _rating=(Rating)ratingInput;
+            Rating rating = (Rating)int.Parse(Console.ReadLine());
+            switch (rating)
+            {
+                case Rating.VeryDissatisfied:
+                    break;
+                case Rating.Dissatisfied:
+                    break;
+                case Rating.Indifferent:
+                    break;
+                case Rating.Satisfied:
+                    break;
+                case Rating.VerySatisfied:
+                    break;
+                default:
+                    break;
+            }
         }
+    }
+    enum Rating
+    {
+        VeryDissatisfied = 1,
+        Dissatisfied,
+        Indifferent,
+        Satisfied,
+        VerySatisfied
+
     }
     enum WeightClass
     {

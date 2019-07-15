@@ -15,7 +15,7 @@ namespace lesson_12_handling_errors
             Console.WriteLine("Enter Values");
             bool inputAIsInt=int.TryParse(input1,out a);
             bool inputBIsInt=int.TryParse(input2,out b);
-            if(inputAIsInt=true && inputBIsInt==true){
+            if(inputAIsInt && inputBIsInt){
                 var AdditionResult=Add(a,b);
                 var SubtractionResult=Subtract(a,b);
                 Console.WriteLine($"{a} + {b} = {AdditionResult}");
@@ -23,7 +23,7 @@ namespace lesson_12_handling_errors
             }
             else
             {
-                Console.WriteLine("You entered some really bad input, be a good fella and try again nex time");
+                Console.WriteLine("You entered some really bad input, be a good fella and try again next time");
             }
            
             //perform calculation

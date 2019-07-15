@@ -13,8 +13,8 @@ namespace lesson_07_arrays_and_collections
             arrayOfStrings[2] = "Jill and Scott";
             int[] arrayOfInts = { 6, 8, 9, 0, 2, 5, 45 };
             var intAtIndex5 = arrayOfInts[5];
-            //System.Console.WriteLine(intAtIndex5);
-            //System.Console.WriteLine(arrayOfStrings[2]);
+            System.Console.WriteLine(intAtIndex5);
+            System.Console.WriteLine(arrayOfStrings[2]);
 
             //List
             List<string> Names = new List<string>(){
@@ -26,6 +26,8 @@ namespace lesson_07_arrays_and_collections
             {
                 System.Console.WriteLine(Name);
             }
+
+            
             //ObservableCollection
             ObservableCollection<string> NamesOfPeople = new ObservableCollection<string>(){
             "Smith Rogers",
