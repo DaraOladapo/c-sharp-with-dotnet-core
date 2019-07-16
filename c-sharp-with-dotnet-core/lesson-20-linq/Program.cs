@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace lesson_20_linq
 {
@@ -38,13 +37,9 @@ namespace lesson_20_linq
             };
             Console.WriteLine("Who are you looking for?");
             var inputString = Console.ReadLine().ToLower();
-            try{
-            var Name = Names.First<string>(opt => opt.ToLower().Contains(inputString));
-            Console.WriteLine($"Result of your {inputString} search = {Name}");
-            }
-            catch{
-                Console.WriteLine($"Nothing found or something went on very baaad.");
-            }
+            SearchHelper.FindAndReplace(Names, inputString);
         }
+
+        
     }
 }
