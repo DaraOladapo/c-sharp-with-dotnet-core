@@ -17,10 +17,10 @@ namespace lesson_13_preventing_bugs
              System.Console.WriteLine($"An error occured.\nMessage: {exception.Message}");
              //System.Console.WriteLine($"Follow this link - {exception.HelpLink} - to learn more");  
             }
-            // finally
-            // {
-            // System.Console.WriteLine("This finally happened");
-            // }
+            finally
+            {
+            System.Console.WriteLine("This finally happened");
+            }
         }
     }
 }
