@@ -1,10 +1,10 @@
 using System;
+using System.Collections.Generic;
 
 namespace lesson_18_using_interfaces
 {
     class Car : Automobile, IAutomobile
     {
-
         public Car(string Name, string Model, int MakeYear, double FuelAmount)
         {
             this.Name = Name;
@@ -12,11 +12,10 @@ namespace lesson_18_using_interfaces
             this.MakeYear = MakeYear;
             this.FuelAmount = FuelAmount;
         }
-
         public void Accelerate()
         {
             this.FuelAmount -= 2;
-            Console.WriteLine($"Current Fuel Amount{FuelAmount} after accelerating");
+            Console.WriteLine($"Current Fuel Amount: {FuelAmount} after accelerating");
         }
 
         public string GetFuelStatus(double FuelAmount)

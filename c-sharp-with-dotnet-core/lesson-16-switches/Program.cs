@@ -6,47 +6,45 @@ namespace lesson_16_switches
     {
         static void Main(string[] args)
         {
-            string DayCode="";
-           var DayToDay=DateTime.Now.DayOfWeek;
+            string DayCode = "";
+            var DayToDay = DateTime.Now.DayOfWeek;
+            DayCode = GetDayCode(DayToDay);
+            System.Console.WriteLine(DayCode);
+        }
+
+        private static string GetDayCode(DayOfWeek DayToDay)
+        {
+            string DayCode;
             switch (DayToDay)
             {
                 case DayOfWeek.Sunday:
-                DayCode="Sabbath Day";
+                    DayCode = "Sabbath Day";
                     break;
                 case DayOfWeek.Monday:
-                DayCode="Man Crush Monday";
+                    DayCode = "Man Crush Monday";
                     break;
                 case DayOfWeek.Tuesday:
-                DayCode="Turnup Tuesday";
+                    DayCode = "Turnup Tuesday";
                     break;
                 case DayOfWeek.Wednesday:
-                DayCode="Woman Crush Wednesday";
+                    DayCode = "Woman Crush Wednesday";
                     break;
                 case DayOfWeek.Thursday:
-                DayCode="Throwback Thursday";
+                    DayCode = "Throwback Thursday";
                     break;
                 case DayOfWeek.Friday:
-                DayCode="Flashback Friday";
+                    DayCode = "Flashback Friday";
                     break;
                 case DayOfWeek.Saturday:
-                DayCode="Owambe";
+                    DayCode = "Owambe";
                     break;
                 default:
-                DayCode="Just another day";
+                    DayCode = "Just another day";
                     break;
             }
-            System.Console.WriteLine(DayCode);
+
+            return DayCode;
         }
     }
-        enum DaysOfWeek
-        {
-         Sunday=1,
-         Monday,
-         Tuesday,
-         Wednesday,
-         Thursday,
-         Friday,
-         Saturday
-        }
     
 }
