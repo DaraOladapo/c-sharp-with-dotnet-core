@@ -95,9 +95,15 @@ We also introduce the concept of statements, operators and comments.
 
 #### Lesson 4
 
+In the last lesson, one of the statements was returning a value that was normally not expected an ideal
+
 #### Lesson 5
 
+Let's play with some strings in this lesson -  concatenations and escape sequences.
+
 #### Lesson 6
+
+One important part of amy app/program is the use of dates and times. In this lesson, we walk through the usage of the `DateTime` data type.
 
 #### Lesson 7
 
