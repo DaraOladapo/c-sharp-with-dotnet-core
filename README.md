@@ -32,7 +32,7 @@ This will be the first part of this series.
 
 -------------
 
-Most developers started writing thier coding career with a `Hello World`.
+Most developers started writing their coding career with a `Hello World`.
 
 Lesson 1 get us started with a Console App displaying Hello World.
 
