@@ -1,6 +1,8 @@
+# Starting with the Console
+
 This will be the first part of this series.
 
-#### Lesson 1
+## Lesson 1
 
 -------------
 
@@ -35,9 +37,11 @@ You may ask, I didn't write any code. Yes, that is true. What happened behind th
             }
         }
 
-    So, the dotnet run command simply executed the `Console.WriteLine("Hello World!");` statement and displayed `Hello World!` to us.
+So, the dotnet run command simply executed the `Console.WriteLine("Hello World!");` statement and displayed `Hello World!` to us.
 
-#### Lesson 2
+More details [here](lesson-01-hello-world/hello-world.md).
+
+## Lesson 2
 
 -------------
 
@@ -52,11 +56,9 @@ double | representing decimal numbers
 float | reperesenting floating point numbers
 bool | used to determine the truth value of an assignment
 
-Why use what
+More details [here]().
 
-...working on this.
-
-#### Lesson 3
+## Lesson 3
 
 Q: How do we then use data types?
 
@@ -70,42 +72,78 @@ In this lessson, we use the basic data types and do some operations on them.
 
 We also introduce the concept of statements, operators and comments.
 
-#### Lesson 4
+More details [here]().
 
-In the last lesson, one of the statements was returning a value that was normally not expected an ideal
+## Lesson 4
 
-#### Lesson 5
+In the last lesson, one of the statements was returning a value that was normally not expected an ideal.
+
+More details [here]().
+
+## Lesson 5
 
 Let's play with some strings in this lesson -  concatenations and escape sequences.
 
-#### Lesson 6
+More details [here]().
+
+## Lesson 6
 
 One important part of amy app/program is the use of dates and times. In this lesson, we walk through the usage of the `DateTime` data type.
 
-#### Lesson 7
+More details [here]().
 
-#### Lesson 8
+## Lesson 7
 
-#### Lesson 9
+More details [here]().
 
-#### Lesson 10
+## Lesson 8
 
-#### Lesson 11
+More details [here]().
 
-#### Lesson 12
+## Lesson 9
 
-#### Lesson 13
+More details [here]().
 
-#### Lesson 14
+## Lesson 10
 
-#### Lesson 15
+More details [here]().
 
-#### Lesson 16
+## Lesson 11
 
-#### Lesson 17
+More details [here]().
 
-#### Lesson 18
+## Lesson 12
 
-#### Lesson 19
+More details [here]().
 
-#### Lesson 20
+## Lesson 13
+
+More details [here]().
+
+## Lesson 14
+
+More details [here]().
+
+## Lesson 15
+
+More details [here]().
+
+## Lesson 16
+
+More details [here]().
+
+## Lesson 17
+
+More details [here]().
+
+## Lesson 18
+
+More details [here]().
+
+## Lesson 19
+
+More details [here]().
+
+## Lesson 20
+
+More details [here]().
