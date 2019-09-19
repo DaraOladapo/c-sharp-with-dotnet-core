@@ -56,7 +56,7 @@ double | representing decimal numbers
 float | reperesenting floating point numbers
 bool | used to determine the truth value of an assignment
 
-More details [here]().
+More details [here](lesson-02-data-types/data-types.md).
 
 ## Lesson 3
 
@@ -64,7 +64,7 @@ Q: How do we then use data types?
 
 A: We declare them as variables.
 
-A variable is a name given to a storage area that is used to store values of various data types. (Ref: <https://www.guru99.com/c-sharp-variables-operator.html)>
+A variable is a name given to a storage area that is used to store values of various data types. (Reference [here](https://www.guru99.com/c-sharp-variables-operator.html))
 
 A variable needs to represent a data type -simple or custom-defined.
 
@@ -72,78 +72,78 @@ In this lessson, we use the basic data types and do some operations on them.
 
 We also introduce the concept of statements, operators and comments.
 
-More details [here]().
+More details [here](lesson-03-variables-and-calculations/variables-and-calculations.md).
 
 ## Lesson 4
 
 In the last lesson, one of the statements was returning a value that was normally not expected an ideal.
 
-More details [here]().
+More details [here](lesson-04-debugging/debugging.md).
 
 ## Lesson 5
 
 Let's play with some strings in this lesson -  concatenations and escape sequences.
 
-More details [here]().
+More details [here](lesson-05-strings/string.md).
 
 ## Lesson 6
 
 One important part of amy app/program is the use of dates and times. In this lesson, we walk through the usage of the `DateTime` data type.
 
-More details [here]().
+More details [here](lesson-06-date-time/date-time.md).
 
 ## Lesson 7
 
-More details [here]().
+More details [here](lesson-07-arrays-and-collections/arrays-and-collections.md).
 
 ## Lesson 8
 
-More details [here]().
+More details [here](lesson-08-enums-and-structs/enums-and-structs.md).
 
 ## Lesson 9
 
-More details [here]().
+More details [here](lesson-09-making-choices/making-choices.md).
 
 ## Lesson 10
 
-More details [here]().
+More details [here](lesson-10-repeating-program-steps/repeating-program-steps.md).
 
 ## Lesson 11
 
-More details [here]().
+More details [here](lesson-11-reusing-code-with-methods/reusing-code-with-methods.md).
 
 ## Lesson 12
 
-More details [here]().
+More details [here](lesson-12-handling-errors/handling-errors.md).
 
 ## Lesson 13
 
-More details [here]().
+More details [here](lesson-13-preventing-bugs/preventing-bugs.md).
 
 ## Lesson 14
 
-More details [here]().
+More details [here](lesson-14-defining-classes/defining-classes.md).
 
 ## Lesson 15
 
-More details [here]().
+More details [here](lesson-15-initializing-objects/initializing-objects.md).
 
 ## Lesson 16
 
-More details [here]().
+More details [here](lesson-16-switches/switches.md).
 
 ## Lesson 17
 
-More details [here]().
+More details [here](lesson-17-overloading-operators/overloading-operators.md).
 
 ## Lesson 18
 
-More details [here]().
+More details [here](lesson-18-using-interfaces/using-interfaces.md).
 
 ## Lesson 19
 
-More details [here]().
+More details [here](lesson-19-basic-oop-concepts/basic-oop-concepts.md).
 
 ## Lesson 20
 
-More details [here]().
+More details [here](lesson-20-linq/linq.md).
