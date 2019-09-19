@@ -29,3 +29,9 @@ The lesson files are broken down into basic chunks to grasp and progress from si
 This will be the first part of this series. We will have 20 sections in this starter section.
 
 Read section structure [here](starting-with-console/starting-with-console.md).
+
+### Beyond the Basics
+
+In this section, we just spend our time writing some pretty small projects using some of the things learnt in the starting with console section.
+
+Read more about the section [here](beyond-the-basics/beyond-the-basics.md).
