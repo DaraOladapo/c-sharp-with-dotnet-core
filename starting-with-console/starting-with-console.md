@@ -50,6 +50,11 @@ string | representing alphanumeric characters
 int | representing whole numbers
 double | representing decimal numbers
 float | reperesenting floating point numbers
+bool | used to determine the truth value of an assignment
+
+Why use what
+
+...working on this.
 
 #### Lesson 3
 
