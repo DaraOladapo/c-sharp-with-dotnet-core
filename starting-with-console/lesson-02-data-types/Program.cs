@@ -33,6 +33,16 @@ namespace lesson_02_data_types
             //char
             char someChar = 'c';
             Console.WriteLine($"{someChar} is of datatype {someChar.GetType()}");
+            //bool
+            bool isTrue=true;
+            int someNumber=5;
+            isTrue=someNumber>4;
+            if(isTrue){
+                Console.WriteLine($"{someNumber} is greater than 4");
+            }
+            else{
+                Console.WriteLine($"{someNumber} is less than 4");
+            }
         }
     }
 }
