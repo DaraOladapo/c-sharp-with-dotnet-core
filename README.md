@@ -13,8 +13,8 @@ To get the .NET SDK, visit dot.net and get the latest version. After installatio
 
 On my Mac, I have .NET Core 3 SDK Installed as of when writing this. so I get.
 
-    GWL-Mac:c-sharp-with-dotnet-core daraoladapo$ dotnet --version
-    3.0.100-preview6-012264
+    PS /Users/daraoladapo/Projects/c-sharp-with-dotnet-core> dotnet --version
+    3.1.102
 
 The version number displayed may be different from what you have on your computer which is totally fine.
 
@@ -28,7 +28,7 @@ The lesson files are broken down into basic chunks to grasp and progress from si
 
 This will be the first part of this series. We will have 20 sections in this starter section.
 
-Read section structure [here](starting-with-console/starting-with-console.md).
+Read section structure [here](01-TheBasics/TheBasics.md).
 
 ### Beyond the Basics
 
