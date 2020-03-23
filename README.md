@@ -5,13 +5,13 @@ This is a beginner code sample for learning C# and .NET Core.
 ## Requirements
 
 - .NET Core Core SDK
-- Visual Studio Code or Visual Studio (for the first part, we will be using VS Code)
+- Visual Studio Code or Visual Studio (for the first and most part, we will be using VS Code)
 
-To get the .NET SDK, visit dot.net and get the latest version. After installation, verify you installation by running
+To get the .NET SDK, visit [dot.net](https://dot.net) and get the latest version available for WIndows, Mac and Linux. After installation, verify you installation by running
 
     dotnet --version
 
-On my Mac, I have .NET Core 3 SDK Installed as of when writing this. so I get.
+On my Mac, I have .NET Core 3 SDK Installed as of when writing this. so I get. The additional software I have here for my terminal is PowerShell.
 
     PS /Users/daraoladapo/Projects/c-sharp-with-dotnet-core> dotnet --version
     3.1.102
@@ -34,4 +34,6 @@ Read section structure [here](01-TheBasics/TheBasics.md).
 
 In this section, we just spend our time writing some pretty small projects using some of the things learnt in the starting with console section.
 
-Read more about the section [here](beyond-the-basics/beyond-the-basics.md).
+Read more about the section [here](02-BeyondTheBasics/BeyondTheBasics.md).
+
+The accompanying videos to this repo can be found at [TODO:Link Here](<TODO:LinkHere>)
