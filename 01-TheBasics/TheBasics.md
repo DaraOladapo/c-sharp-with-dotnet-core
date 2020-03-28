@@ -2,7 +2,7 @@
 
 This will be the first part of this series.
 
-## Lesson 1
+## Lesson 1: Hello World
 
 -------------
 
@@ -40,7 +40,7 @@ You may ask, I didn't write any code. Yes, that is true. What happened behind th
 So, the dotnet run command simply executed the `Console.WriteLine("Hello World!");` statement and displayed `Hello World!` to us.
 
 
-## Lesson 2
+## Lesson 2: Data Types
 
 -------------
 
@@ -55,9 +55,8 @@ double | representing decimal numbers
 float | reperesenting floating point numbers
 bool | used to determine the truth value of an assignment
 
-More details [here](lesson-02-data-types/data-types.md).
 
-## Lesson 3
+## Lesson 3: Variables and Calculations
 
 Q: How do we then use data types?
 
@@ -71,66 +70,66 @@ In this lessson, we use the basic data types and do some operations on them.
 
 We also introduce the concept of statements, operators and comments.
 
-## Lesson 4
+## Lesson 4: Debugging
 
 In the last lesson, one of the statements was returning a value that was normally not expected an ideal.
 
-## Lesson 5
+## Lesson 5: Strings
 
 Let's play with some strings in this lesson -  concatenations and escape sequences.
 
-## Lesson 6
+## Lesson 6: Date and Time
 
 One important part of amy app/program is the use of dates and times. In this lesson, we walk through the usage of the `DateTime` data type.
 
-## Lesson 7
+## Lesson 7: Arrays and Collections
 
 
-## Lesson 8
+## Lesson 8: Enums and Structs
 
 
-## Lesson 9
-
-
-
-## Lesson 10
+## Lesson 9: Making Choices
 
 
 
-## Lesson 11
-
-
-## Lesson 12
+## Lesson 10: Repeating Program Steps
 
 
 
-## Lesson 13
+## Lesson 11: Reusing Code with Methods
+
+
+## Lesson 12: Handling Errors
 
 
 
-## Lesson 14
-
-
-## Lesson 15
+## Lesson 13: Preventing Bugs
 
 
 
-## Lesson 16
+## Lesson 14: Defining Classes
+
+
+## Lesson 15: Initializing Objects
 
 
 
-## Lesson 17
+## Lesson 16: Switches
 
 
 
-## Lesson 18
+## Lesson 17: Overloading Operators
 
 
 
-## Lesson 19
+## Lesson 18: Using Interfaces
 
 
 
-## Lesson 20
+## Lesson 19: Basic OOP Concepts
+
+
+
+## Lesson 20: LINQ
 
 
