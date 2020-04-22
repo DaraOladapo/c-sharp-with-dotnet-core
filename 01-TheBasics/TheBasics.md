@@ -16,7 +16,7 @@ Type `dotnet new console -o Lesson001HelloWorld` and hit 'Enter' on your keyboar
 
 This command creates a .NET Core Console application in a new folder called lesson-01-hello-world
 
-Next step, type `cd Lesson001HelloWorld` in your commandline/terminal, hit enter then next type `dotnet run` and hit 'Enter' again.
+Next step, type `cd Lesson001HelloWorld` in your command line/terminal, hit enter then next type `dotnet run` and hit 'Enter' again.
 
 You should get this shown to you.
 
@@ -52,7 +52,7 @@ Data Type | Description and Usage
 string | representing alphanumeric characters
 int | representing whole numbers
 double | representing decimal numbers
-float | reperesenting floating point numbers
+float | representing floating-point numbers
 bool | used to determine the truth value of an assignment
 
 
@@ -66,7 +66,7 @@ A variable is a name given to a storage area that is used to store values of var
 
 A variable needs to represent a data type -simple or custom-defined.
 
-In this lessson, we use the basic data types and do some operations on them.
+In this lesson, we use the basic data types and do some operations on them.
 
 We also introduce the concept of statements, operators and comments.
 
@@ -80,7 +80,7 @@ Let's play with some strings in this lesson -  concatenations and escape sequenc
 
 ## Lesson 6: Date and Time
 
-One important part of amy app/program is the use of dates and times. In this lesson, we walk through the usage of the `DateTime` data type.
+One important part of any app/program is the use of dates and times. In this lesson, we walk through the usage of the `DateTime` data type.
 
 ## Lesson 7: Arrays and Collections
 
